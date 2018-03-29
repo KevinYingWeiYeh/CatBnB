@@ -1,0 +1,64 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "San Francisco",
+                    "short_name": "SF",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "California",
+                    "short_name": "CA",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "94102",
+                    "short_name": "94102",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "944 Market Street, 8th floor, San Francisco, CA 94102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 37.7836924,
+                    "lng": -122.4089666
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.7850413802915,
+                        "lng": -122.4076176197085
+                    },
+                    "southwest": {
+                        "lat": 37.7823434197085,
+                        "lng": -122.4103155802915
+                    }
+                }
+            },
+            "place_id": "ChIJNc25vYWAhYARppFtCl9Stb0",
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "university"
+            ]
+        }
+    ],
+    "status": "OK"
+}

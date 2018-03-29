@@ -1,0 +1,209 @@
+h2 {
+	text-decoration: underline;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+#autocomplete {
+  width: 100%;
+  height: 25px;
+}
+
+.navbar {
+	background-color:#42ABBD ;
+}
+
+.logo {
+}
+
+.navbar-brand {
+	margin-top: 0.58%;
+	margin-right: 2%;
+	font-family: Monospace;
+	font-size: 24px;
+	font-weight: bold;
+	position:top:150px;left:0px;
+}
+
+.sitter-view-title {
+  font-weight: bold;
+}
+
+.sitter-view-detail {
+  font-size: 12px;
+  color: #999;
+}
+
+.media-body {
+  padding-left: 20px;
+}
+
+.homepage-map-box {
+  font-size: 16px;
+  padding: 8px;
+  background-color: #eee;
+}
+
+.sitter-info {
+	width: 100%;
+	height: 630px;
+}
+
+.sitter-view-inbox {
+  padding: 6px;
+}
+
+.sitter-view-inbox :hover {
+  background-color: #eec;
+  cursor: pointer;
+}
+
+.sitter-view-box {
+	width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 700px;
+  font-size: 16px;
+  padding: 8px;
+  border: 2px;
+  background-color: #fff;
+}
+
+.homepage-map-inbox {
+	padding: 1px;
+	background-color: #ccc;
+}
+
+.homepage-map-map-inbox {
+	padding: 2px;
+	background-color: #ccc;
+}
+
+.sitter-info-name {
+	padding: 15px;
+}
+
+.sitter-info-title {
+	text-decoration: underline;
+}
+
+.sitter-request-data {
+	padding: 5px;
+}
+
+.sitter-request-data-inline {
+	padding: 2px;
+}
+
+.sitter-info-picture {
+	width: 100%;
+	padding: 6px;
+	overflow-x: scroll;
+  overflow-y: hidden;
+  background-color: #ddd
+}
+
+.sitter-info-reviewbox {
+	width: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 235px;
+  padding: 2px;
+	background-color: #eee;
+}
+
+.sitter-info-review-inbox {
+	padding: 1px;
+	border-style: groove;
+	background-color: #fff;
+}
+
+.Owner-dash-view {
+	height: 700px;
+	overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.owner-dash-entry {
+	border-color: #eee;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.Owner-dash-view :hover {
+	background-color: #eec;
+}
+
+.Owner-dash-view-data :hover {
+	border-color: #ded;
+	border-style: outset;
+ 	border-width: 4px;
+	background-color: white;
+	background-color: #efe;
+}
+
+.onwer-dash-entry :hover {
+	border-style: hidden;
+}
+
+.onwer-dash-entry-date {
+	padding: 25px 0px;
+}
+
+.onwer-dash-entry-title {
+	padding: 30px;
+}
+
+.btn:hover {
+background-image:none;
+background-color:#42ABBD;
+}
+
+.onwer-dash-entry-input :hover {
+background-image:none;
+background-color:#eee;
+}
+
+.sitter-info-detail {
+	margin-top: 3%;
+	font-size: 16px;
+	color: #aaa;
+}
+
+.sitter-info-svg {
+	margin-bottom: 2%;
+	margin-right: 4%;
+}
+
+.homepage {
+	padding: 30px;
+}
+
+.request-btn {
+	padding-top: 20px;
+}
+
+.box {
+	display:table-cell;
+	width:100%;
+}
+
+.owner-profile-address {
+	display:table-cell;
+	width:100%;
+}
+
+.owner-profile-inbox {
+	padding: 50px;
+}
+
+.owner-dash-inbox {
+	padding: 50px;
+}
+
+.owner-profile-name {
+	padding: 20px;
+}
