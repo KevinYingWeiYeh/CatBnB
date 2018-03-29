@@ -35,6 +35,7 @@
     "react-dom": "^15.4.2",
     "react-dropzone": "^4.1.3",
     "react-popup": "^0.8.0",
+    "react-router": "^4.2.0",
     "request": "^2.82.0"
   }
 }
